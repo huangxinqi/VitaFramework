@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!ELEMENT jdi (map*)>
+<!ELEMENT map (name+,class-name+)>
+<!ATTLIST map type (class|bean) #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT class-name (#PCDATA)>

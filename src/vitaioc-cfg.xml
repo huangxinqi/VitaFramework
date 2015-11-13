@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE vitaioc SYSTEM "vitaioc-cfg.dtd">
+<vitaioc>
+    <map>
+        <name>Person</name>
+        <class-name>com.vita.test.Person</class-name>
+    </map>
+</vitaioc>
